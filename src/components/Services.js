@@ -8,22 +8,22 @@ export default class Services extends Component {
             {
                 icon:<FaCocktail />,
                 title:"Cocktail de bienvenue",
-                info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+                info: "A votre arrivée, nous vous offrons un cocktail gratuit par personne"
             },
             {
                 icon:<FaHiking/>,
-                title:"Activités de randonnée",
-                info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+                title:"Activités à Bali",
+                info: "Randonnées, balades en ville, activités à sensations : nous nous adaptons à vos envies"
             },
             {
                 icon:<FaShuttleVan />,
                 title:"Navette gratuite",
-                info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+                info: "Nous venons vous chercher à l'aéroport"
             },
             {
                 icon:<FaBeer />,
-                title:"Bières lcoales",
-                info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+                title:"Nourriture locale",
+                info: "Découvrez les spécialités culinaires du pays."
             }
         ]
     }
