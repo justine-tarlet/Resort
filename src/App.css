@@ -4,11 +4,11 @@
   box-sizing: border-box;
 }
 :root {
-  --primaryColor: blue;
+  --primaryColor: #FFBC1C;
   --mainWhite: #fff;
   --offWhite: #f7f7f7;
   --mainBlack: #222;
-  --mainGrey: #ececec;
+  --mainGrey: #E5F7FF;
   --darkGrey: #cfcfcf;
   --mainTransition: all 0.3s linear;
   --mainSpacing: 3px;
